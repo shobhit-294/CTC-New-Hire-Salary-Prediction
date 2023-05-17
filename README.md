@@ -8,12 +8,17 @@ The dataset used in this project is not included in the repository. However, you
 The dataset should include the following features:
 
 Education: The level of education of the employee.
+
 Experience: The number of years of work experience of the employee.
+
 Previous CTC: The compensation package (CTC) of the employee's previous job.
+
 Other relevant features: Additional features that may influence the CTC prediction.
 ## Tools Used:
 Excel for basic understanding of the dataset.
+
 MySql for answering some questions related to the dataset to reveal some insights from it.
+
 Python for Exploratory data analysis and Machine Learning.
 
 
